@@ -4,10 +4,14 @@ A Fast Prototype for Tradeoffs in Regulating Highly Automated Robot Ecologies wr
 # Running Environment
 
 The program was built sucessfully with the following environment:
-  OS: Mac OSX 10.11
-  Compiler: Apple LLVM version 8.0.0 (clang-800.0.38)
-  Target: x86_64-apple-darwin15.6.0
-  Thread model: posix
+
+  OS - Mac OSX 10.11
+  
+  Compiler- Apple LLVM version 8.0.0 (clang-800.0.38)
+  
+  Target- x86_64-apple-darwin15.6.0
+  
+  Thread model- posix
   
 
 #Directions
