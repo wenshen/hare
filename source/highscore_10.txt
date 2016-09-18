@@ -1,0 +1,5 @@
+learnerinter	17.135351
+staticinter	12.606667
+learner	7.681061
+static	5.941179
+Unknown	-99999.000000
