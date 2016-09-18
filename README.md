@@ -1,5 +1,14 @@
 # HARE
-A Fast Prototype for Tradeoffs in Regulating Highly Automated Robot Ecologies
+A Fast Prototype for Tradeoffs in Regulating Highly Automated Robot Ecologies written in C++. 
+
+# Running Environment (tested)
+
+Compiler: Apple LLVM version 8.0.0 (clang-800.0.38)
+Target: x86_64-apple-darwin15.6.0
+Thread model: posix
+OS: Mac OSX 10.11
+
+#Directions
 
 To run the program, please follow the directions listed as below:
   1. Open the terminal, and clone the project by using the command "git clone https://github.com/wenshen/hare.git".
@@ -14,11 +23,11 @@ To run the program, please follow the directions listed as below:
       - [tollLimitation?]: whether the toll is limited, with "yes" or "no"
       - [psuedoName]: the psuedo name of the human player.
       
-  Then the player may regulate the vehicles using tolls.
+Then the player may regulate the vehicles using tolls.
   
-  The data logs can be found in the "~/hare/data" directory. Customerization of the game 
-  is available by changing the parameters in the file "4nodes.txt" under the directory of "~/hare/game".
+The data logs can be found in the "~/hare/data" directory. Customerization of the game 
+is available by changing the parameters in the file "4nodes.txt" under the directory of "~/hare/game".
   
   
-  For inquiries, please send me an email via wenshum [at] gmail.com.
+For inquiries, please send me an email via wenshum [at] gmail.com.
       
