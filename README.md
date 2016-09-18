@@ -1,0 +1,24 @@
+# HARE
+A Fast Prototype for Tradeoffs in Regulating Highly Automated Robot Ecologies
+
+To run the program, please follow the directions listed as below:
+  1. Open the terminal, and clone the project by using the command "git clone https://github.com/wenshen/hare.git".
+  2. Switch to the directory "~/hare/" by using the command "cd ~/hare".
+  3. Build the project by typing "make" in the terminal.
+  4. Run the program by the following command: 
+      "./JiaoTong 4nodes [numVehicles] [gameLength] [percentLearning] [tollLimitation?] [psuedoName]"
+      - [numVehicles]: the number (greater than 0) of vehicles in the game, e.g., 300 denotes there are 300 vehicles. 
+      - [gameLength]: the length of the game (in minutes), e.g., 15 denotes a 15-minute game.
+      - [percentLearning]: the percentage of learning agents in the game, e.g., 80 denotes 80% of 
+                           the vehicles are learning agents.
+      - [tollLimitation?]: whether the toll is limited, with "yes" or "no"
+      - [psuedoName]: the psuedo name of the human player.
+      
+  Then the player may regulate the vehicles using tolls.
+  
+  The data logs can be found in the "~/hare/data" directory. Customerization of the game 
+  is available by changing the parameters in the file "4nodes.txt" under the directory of "~/hare/game".
+  
+  
+  For inquiries, please send me an email via wenshum [at] gmail.com.
+      
