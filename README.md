@@ -18,7 +18,7 @@ The program was built sucessfully with the following environment:
 
 To run the program, please follow the directions listed as below:
   1. Open the terminal, and clone the project by using the command "git clone https://github.com/wenshen/hare.git".
-  2. Switch to the directory "~/hare/" by using the command "cd ~/hare".
+  2. Switch to the directory "../hare/".
   3. Build the project by typing "make" in the terminal.
   4. Run the program by the following command: 
       "./JiaoTong 4nodes [numVehicles] [gameLength] [percentLearning] [tollLimitation?] [psuedoName]"
