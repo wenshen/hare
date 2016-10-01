@@ -27,7 +27,7 @@ To run the program, please follow the directions listed as below:
       - [percentLearning]: the percentage of learning agents in the game, e.g., 80 denotes 80% of 
                            the vehicles are learning agents.
       - [tollLimitation?]: whether the toll is limited, with "yes" or "no"
-      - [psuedoName]: the psuedo name of the human player.
+      - [psuedoName]: the pseudo name of the human player.
       
 Then the player may regulate the vehicles using tolls.
   
