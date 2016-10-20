@@ -35,5 +35,5 @@ The data logs can be found in the "~/hare/data" directory. Customerization of th
 is available by changing the parameters in the file "4nodes.txt" under the directory of "~/hare/game".
   
   
-For inquiries, please send me an email via wenshum [at] gmail.com.
+For inquiries, please send me an email via wen [at] wenshum.com.
       
