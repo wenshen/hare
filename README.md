@@ -1,5 +1,5 @@
 # HARE
-A Fast Prototype for Tradeoffs in Regulating Highly Automated Robot Ecologies written in C++. 
+A Fast Prototype for Regulating Highly Automated Robot Ecologies written in C++. 
 
 # Running Environment
 
