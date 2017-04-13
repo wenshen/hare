@@ -31,9 +31,9 @@ To run the program, please follow the directions listed as below:
       
 Then the player may regulate the vehicles using tolls.
   
-The data logs can be found in the "~/hare/data" directory. Customerization of the game 
-is available by changing the parameters in the file "4nodes.txt" under the directory of "~/hare/game".
+The data logs can be found in the "/hare/data" directory. Customerization of the game 
+is available by changing the parameters in the file "4nodes.txt" under the directory of "/hare/game".
   
   
-For inquiries, please send me an email via wen [at] wenshum.com.
+For inquiries, please send me an email via w [at] wshen.net.
       
