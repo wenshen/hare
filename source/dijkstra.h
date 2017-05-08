@@ -41,4 +41,4 @@ public:
 };
 
 
-#endif DIJKSTRA_H
+#endif
