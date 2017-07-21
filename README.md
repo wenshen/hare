@@ -34,7 +34,14 @@ Then the player may regulate the vehicles using tolls.
   
 The data logs can be found in the "/hare/data" directory. Customerization of the game 
 is available by changing the parameters in the file "4nodes.txt" under the directory of "/hare/game".
+
+If you find this repo helpful, please consider to cite in your work:
+
+@inproceedings{shen2017regulating, 
+title={Regulating Highly Automated Robot Ecologies: Insights from Three User Studies},
+author={Shen, Wen and Khemiri, Alanoud Al and Almehrezi, Abdulla and Enezi, Wael Al and Rahwan, Iyad and Crandall, Jacob W.}, booktitle={Proceedings of the Fifth International Conference on Human-Agent Interaction (HAI 2017)}, year={2017}, organization={ACM} 
+}
   
-  
-For inquiries, please send me an email via w [at] wshen.net.
+For inquiries, please send me an email via wen.shen [at] uci.edu.
+
       
