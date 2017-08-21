@@ -41,7 +41,7 @@ If you find this repo helfull, we would really appreciate it if you could cite o
 
 title={Regulating Highly Automated Robot Ecologies: Insights from Three User Studies},
 
-author={Shen, Wen and Khemiri, Alanoud Al and Almehrezi, Abdulla and Enezi, Wael Al and Rahwan, Iyad and Crandall, Jacob W.},
+author={Shen, Wen and Khemeiri, Alanoud Al and Almehrezi, Abdulla and Enezi, Wael Al and Rahwan, Iyad and Crandall, Jacob W.},
 
 booktitle={Proceedings of the Fifth International Conference on Human-Agent Interaction (HAI 2017)}, year={2017},
 
